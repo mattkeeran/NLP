@@ -3,8 +3,10 @@
 
 ### Instructions
 runs via python viterbi.py followed by two .txt files on newlines.
-\npos.train.txt
-\nsample_3.txt
+
+pos.train.txt
+
+sample_3.txt
 
 ### Input 1
 A corpus with words and their associated parts of speech.
