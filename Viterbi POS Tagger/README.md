@@ -1,6 +1,6 @@
 # Viterbi Part-of-Speech Tagger 
-## by Matthew Keeran
-
+## By Matthew Keeran
+written in python 3.5.4 on Windows 8.1. Tested with python 3.6 on Ubuntu 16.
 ### Instructions
 runs via python viterbi.py followed by two .txt files on newlines.
 
