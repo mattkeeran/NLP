@@ -6,4 +6,4 @@ Viterbi Part of Speech Tagger
 
 Dependency Parser
 
-Sentiment Analysis
+Sentiment Analyzer
