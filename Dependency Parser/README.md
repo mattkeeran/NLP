@@ -1,5 +1,5 @@
 # Dependency Parser 
-## by Matthew Keeran
+## By Matthew Keeran
 Written in python 3.5.4 on Windows 8.1. Tested with python 3.6 on Ubuntu 16.
 
 ### Instructions
