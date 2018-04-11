@@ -1,6 +1,6 @@
 # Sentiment Analyzer 
 ## By Matthew Keeran
-Bag of words binary sentiment analyzer using a simple feedforward neural network with backpropagation.
+Bag of words (BOW) binary sentiment analyzer using a simple feedforward neural network with backpropagation.
 
 Written in python 3.5.4 on Windows 8.1. Tested with python 3.6 on Ubuntu 16.
 ### Instructions:
